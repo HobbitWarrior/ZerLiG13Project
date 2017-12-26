@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="OCSF/src"/>
+	<classpathentry kind="src" path="Zer-Li/src"/>
+	<classpathentry kind="lib" path="ServerGuiLogin.jar"/>
+	<classpathentry kind="output" path="OCSF/bin"/>
+</classpath>
