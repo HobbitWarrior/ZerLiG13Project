@@ -1,5 +1,6 @@
 package logic;
-//this is just a silly commen, Haim is illiterate      
+//this is just a silly commen, Haim is illiterate  
+//another comment
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
