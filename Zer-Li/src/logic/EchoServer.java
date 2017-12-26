@@ -23,7 +23,7 @@ import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 import ocsf.server.*;
 
-
+//Haim and Elias hate Alex
 
 public class EchoServer extends AbstractServer implements Initializable
 {
