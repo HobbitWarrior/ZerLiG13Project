@@ -44,7 +44,7 @@ import ocsf.server.ConnectionToClient;
 
 public class ServerGui extends Application
 {
-//Elias is king and haim is a servant
+//Elias is king and haim is a servant 
 	private EchoServerController ServerWindow;
 	public static  boolean serverIsConnected=false;
 
